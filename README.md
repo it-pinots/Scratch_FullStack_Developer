@@ -27,7 +27,7 @@ Développez des compétences  dans l'écosystème JavaScript, notamment HTML, CS
 ## Contents <a name = "Contents"></a>
 
 - Introduction
-- Html and CSS
+- Html & CSS
 - Intro to CSS
 - Building a business card
 - Space exploration
