@@ -1,0 +1,5 @@
+hooks:
+      post-start:
+        - exec-host: bash -c "ddev browsersync &"
+        - exec-host: ddev launch :3000
+
